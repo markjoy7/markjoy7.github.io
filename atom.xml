@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mark's Blog]]></title>
+  <link href="http://markjoy7.github.io/atom.xml" rel="self"/>
+  <link href="http://markjoy7.github.io/"/>
+  <updated>2017-08-03T17:51:47+08:00</updated>
+  <id>http://markjoy7.github.io/</id>
+  <author>
+    <name><![CDATA[Mark]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[强制早起]]></title>
+    <link href="http://markjoy7.github.io/blog/2017/08/03/new-life/"/>
+    <updated>2017-08-03T16:11:50+08:00</updated>
+    <id>http://markjoy7.github.io/blog/2017/08/03/new-life</id>
+    <content type="html"><![CDATA[<h1>早睡早起身体好</h1>
+
+<p><strong>现状：</strong></p>
+
+<p>作息时间不规律，容易效率底下，身体不舒服。晚上经常睡不好，睡的晚，早上醒的晚。</p>
+
+<p><strong>如何改善？</strong></p>
+
+<p>强制早起，不管晚上几点睡的。每天闹钟早上6点，不管晚上几点睡。21天养成习惯</p>
+
+<p>今天已经实施第一天，状态不错！</p>
+
+<p>每天做好时间管理，每天都有产出。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[你好 Octopress]]></title>
+    <link href="http://markjoy7.github.io/blog/2017/08/03/hello/"/>
+    <updated>2017-08-03T10:13:53+08:00</updated>
+    <id>http://markjoy7.github.io/blog/2017/08/03/hello</id>
+    <content type="html"><![CDATA[<h1>开通blog了</h1>
+
+<h2>新搭建了octopress blog，多做笔记，多思考，持续学习！</h2>
+
+<h2>战略上努力，战术上拼命！</h2>
+]]></content>
+  </entry>
+  
+</feed>
