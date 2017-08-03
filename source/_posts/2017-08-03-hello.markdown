@@ -1,0 +1,11 @@
+---
+layout: post
+title: "你好 octopress"
+date: 2017-08-03 10:13:53 +0800
+comments: true
+categories: notes 
+---
+
+# 开通blog了
+## 新搭建了octopress blog，多做笔记，多思考，持续学习！
+## 战略上努力，战术上拼命！
