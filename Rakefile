@@ -316,7 +316,7 @@ task :setup_github_pages, :repo do |t, args|
     repo_url = get_stdin("Repository url: ")
   end
   #2017/08/03 fix setup_github_pages commnd abort error!!!!
-  repo_url = 'git@github.com:markjoy7/markjoy7.github.io.git'
+ # repo_url = 'git@github.com:markjoy7/markjoy7.github.io.git'
   protocol = (repo_url.match(/(^git)@/).nil?) ? 'https' : 'git'
   if protocol == 'git'
     user = repo_url.match(/:([^\/]+)/)[1]
