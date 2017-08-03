@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://markjoy7.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Mark's Blog
+subtitle: Hard working,hard living.
+author: Mark
 simple_search: https://www.google.com/search
 description:
 
@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -99,3 +99,10 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+#JiaThis comment
+jiathis_uyan_comments: true
+
+#JiaThis
+jiathis_share: true
+
